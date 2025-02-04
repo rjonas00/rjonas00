@@ -1,9 +1,9 @@
-# 👋 Hi there!
+# 🚧 Under Reconstruction 🚧
 
-🚧 **My GitHub profile is currently under reconstruction!** 🚧
+Hi! 👋
 
-I'm working on updating my projects, repositories, and profile to better reflect my current work and interests. Please check back soon!
+I'm currently working on updating my GitHub profile to better showcase my projects and contributions. Please check back soon for updates!
 
-In the meantime, feel free to reach out to me at [jonas.raffi.jr@gmail.com](jonas.raffi.jr@gmail.com).
+In the meantime, feel free to reach out to me at [jonas.raffi.jr@gmail.com](mailto:jonas.raffi.jr@gmail.com).
 
 Thank you for your patience! 🙏
