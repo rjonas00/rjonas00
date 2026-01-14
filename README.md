@@ -1,9 +1,9 @@
-# 🚧 Under Reconstruction 🚧
-
 Hi! 👋
 
-I'm currently working on updating my GitHub profile to better showcase my projects and contributions. Please check back soon for updates!
+Raffael Jonas, 
+Master student, 
+University of Vienna Astrophysics Department
+Project Member of the Data Science & Cosmology Group
 
-In the meantime, feel free to reach out to me at [jonas.raffi.jr@gmail.com](mailto:jonas.raffi.jr@gmail.com).
+Email: [jonas.raffi.jr@gmail.com](mailto:jonas.raffi.jr@gmail.com).
 
-Thank you for your patience! 🙏
